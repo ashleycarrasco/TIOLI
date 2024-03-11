@@ -1,0 +1,6 @@
+PlayerID,PlayerName,PlayerBank,Blackjack?,HandScore
+00064,SmokeyJoe,1000,N,15
+67456,HitMe!,3000,N,20
+90821,ForeverFolding,1000,N,13
+77892,BlackjackQueen,1000,N,17
+dealer,Dealer,0,N,18
